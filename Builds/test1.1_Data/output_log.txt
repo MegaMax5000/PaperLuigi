@@ -1,0 +1,16 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 (ID=0xfc6)
+    Vendor:   NVIDIA
+    VRAM:     965 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documents\Unity Things\Paper Luigi\Builds\test1.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documents\Unity Things\Paper Luigi\Builds\test1.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documents\Unity Things\Paper Luigi\Builds\test1.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documents\Unity Things\Paper Luigi\Builds\test1.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.072 seconds
+desktop: 1680x1050 59Hz; virtual: 3360x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
